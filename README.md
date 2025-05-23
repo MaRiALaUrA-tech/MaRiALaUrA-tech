@@ -1,32 +1,17 @@
-### Oiê :-) !
-### Me chamo Maria Laura, é uma honra conhecê-lo (a)!
+### Oiê! Me chamo Maria Laura, é uma honra conhecê-lo(a)!  
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-laura-santos-322aa0308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramossantosmarialaura?igsh=OWxocnE2bGo4YjQ5)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@maria._laura)
+![moulinquinn-the-aristocats](https://github.com/user-attachments/assets/fe5d87af-8d36-41af-8309-3a40a76d54ac)
 
-![Débora Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=debsouza&show_icons=true&theme=highcontrast)
+> "Quanto mais se sabe, menos se sabe!"
 
-## Tecnologias do meu dia a dia
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-laura-santos-322aa0308)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marialaurasantosramosmaria@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SeuIDdoDiscord)
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div></br>
+![Maria Laura GitHub stats](https://github-readme-stats.vercel.app/api?username=MaRiALaUrA-tech&show_icons=true&theme=synthwave)
 
-Apaixonada por artes, atividade física, educação e tecnologia, eu vivo meus dias buscando aprender a aprender e a ensinar!
+---
 
-</br>
-<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/debysouza/count.svg" /></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debysouza/debysouza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debysouza/debysouza/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/debysouza/debysouza/output/github-contribution-grid-snake.svg">
-</picture>
+🎓 Uma estudante do Ensino Médio  
+💻 Explorando projetos em Python para impactar positivamente a comunidade  
+🧠 Filosofia, empatia, programação e escrita!
